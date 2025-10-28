@@ -1,4 +1,0 @@
-C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -ExecutionPolicy Bypass -File
-
-
-(its for win 11 23h2 & futher run this inorder to run the script "Smart-NetworkSwitch" vie powershell)
